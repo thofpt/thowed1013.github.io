@@ -1,0 +1,48 @@
+/* Mã CSS */
+
+.form {
+    text-align: center;
+    border: 2px solid rgb(23, 170, 238);
+    background: rgb(212, 167, 167);
+    }
+    #form1 {
+    width: 1220px;
+    background: #fff;
+    margin: 0 auto;
+    background: rgb(212, 167, 167);
+    }
+    #form1 input[type=text] {
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #555;
+    display: block;
+    line-height: 1.2;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    height: 50px;
+    padding: 0 20px 0 23px;
+    border: 0;
+    }
+    #form1 input[type=text]:focus{
+    border: 0;
+    outline: none;
+    }
+    #form1 #fcontent {
+    outline: none;
+    min-height: 150px;
+    }
+    #form1 input[type=submit] {
+    background-color: #bd59d4;
+    height: 42px;
+    padding: 5px 20px;
+    border-radius: 21px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #fff;
+    border: 0;
+    }
+    #form1 input[type="submit"]:hover {
+    background:#CC4949;
+    }
